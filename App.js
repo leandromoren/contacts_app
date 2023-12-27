@@ -9,3 +9,4 @@ export default function App() {
   );
 }
 
+// TODO: CREAR UNA PANTALLA PRINCIPAL, SACAR CONTACTS VIEW, CAMBIARLE EL NOMBRE
